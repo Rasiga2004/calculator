@@ -1,0 +1,25 @@
+table{
+    border: 2px solid black;
+    margin-top: 130px;
+    margin-left: 50px;
+    height: 350px;
+    width: 270px;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.7BGsvSKImydrxZBmC6Z29gHaEo&pid=Api&P=0&h=180);
+}
+#outputbox{
+    border: 2px solid black;
+    height: 40px;
+    background-color: rgb(252, 133, 133);
+    border: 1px rgb(242, 119, 119);
+}
+button{
+    margin-top: 40px;
+    border: 2px solid black;
+    font-style:italic;
+    font-size: larger;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/WffcoZr.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+}
